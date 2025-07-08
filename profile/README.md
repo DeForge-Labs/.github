@@ -9,7 +9,7 @@
 # Welcome to Deforge
 Create your very own AI Agents without any code with the help of our node based interface.
 
-Visit us at https://deforge.io
+Visit us at [https://deforge.io](https://deforge.io/?utm_source=github&utm_medium=company_readme)
 
 Is deforge down? Checkout our status page for latest info: https://status.deforge.live
 | Backend                                                                      | Editor                                                                      | Homepage                                                                      | Docs                                                                      | Blog                                                                      |
