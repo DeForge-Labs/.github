@@ -11,6 +11,11 @@ Create your very own AI Agents without any code with the help of our node based 
 
 Visit us at https://deforge.io
 
+Is deforge down? Checkout our status page for latest info: https://status.deforge.live
+| Backend                                                                      | Editor                                                                      | Homepage                                                                      | Docs                                                                      | Blog                                                                      |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![Backend](https://kuma.deforge.live/api/badge/1/status?style=for-the-badge) | ![Editor](https://kuma.deforge.live/api/badge/2/status?style=for-the-badge) | ![Homepage](https://kuma.deforge.live/api/badge/3/status?style=for-the-badge) | ![Docs](https://kuma.deforge.live/api/badge/4/status?style=for-the-badge) | ![Blog](https://kuma.deforge.live/api/badge/5/status?style=for-the-badge) |
+
 # Get Involved
 Check out our library of nodes at [DeForge-Labs/library](https://github.com/DeForge-Labs/library) and get ready to add any node you want. 
 
