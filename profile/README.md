@@ -11,7 +11,7 @@ Create your very own AI Agents without any code with the help of our node based 
 
 Visit us at [https://deforge.io](https://deforge.io/?utm_source=github&utm_medium=company_readme)
 
-Is deforge down? Checkout our status page for latest info: https://status.deforge.live
+Is deforge down? Checkout our status page for latest info: https://status.deforge.io
 | Backend                                                                      | Editor                                                                      | Homepage                                                                      | Docs                                                                      | Forum                                                                      |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | ![Backend](https://statusapi.deforge.io/api/public/monitors/34ded116-e213-4c28-9a85-a93998aaad02/badge?style=for-the-badge) | ![Editor](https://statusapi.deforge.io/api/public/monitors/7e8905aa-d212-43ec-aa64-f0910e619428/badge?style=for-the-badge) | ![Homepage](https://statusapi.deforge.io/api/public/monitors/87bf8321-b86a-49d2-bbe3-28e86745c916/badge?style=for-the-badge) | ![Docs](https://statusapi.deforge.io/api/public/monitors/7446aed3-edf0-408f-83ec-1084bef9b11f/badge?style=for-the-badge) | ![Forum](https://statusapi.deforge.io/api/public/monitors/63f02950-6f77-49f5-b9e3-fedb9181f3e2/badge?style=for-the-badge) |
